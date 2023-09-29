@@ -10,6 +10,6 @@ data:
       server_name _;
       location / {
         default_type application/json;
-        return 200 "Kantapit Phaengdee";
+        return 200 "super lnwpitch";
       } 
     }
